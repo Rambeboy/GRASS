@@ -65,7 +65,7 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
    123123123
    ```
 
-3. To specify proxies, create a file named `proxy.txt` in the project directory and add your desired proxy URLs, following the same new-line format, like this:
+3. To specify proxies, create a file named `proxy-list.txt` in the project directory and add your desired proxy URLs, following the same new-line format, like this:
 
    ```text
    http://username:password@hostname:port
