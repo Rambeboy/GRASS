@@ -6,13 +6,22 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 
 ---
 
-## Overview
+## OVERVIEW
 
 `GRASS` connects to a specified WebSocket server using both HTTP and SOCKS proxies. It leverages the `ws` library for WebSocket communication and integrates the `https-proxy-agent` and `socks-proxy-agent` libraries for enhanced proxy support. This allows for more versatile and resilient connections, accommodating a wider range of proxy types.
 
 ---
 
-## Installation
+## BOT FEATURE
+
+- **Single Account With Multiple Worker Based On proy**
+- **Proxy Support (HTTP / SOCKS5)**
+- **Auto Run GRASS Node**
+- **Server Proxy**
+
+---
+
+## INSTALLATION
 
 1. Clone this repository to your local machine:
 
@@ -34,7 +43,7 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 
 ---
 
-## Usage
+## USAGE
 
 1. Obtain your user ID from the Getgrass website:
 
@@ -71,13 +80,13 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 
 ---
 
-## License
+## LICENSE
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Contribution
+## CONTRIBUTION
 
 If you find this project useful, please consider giving it a star on GitHub! Your support motivates further development and enhancements.
 
