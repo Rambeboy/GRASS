@@ -80,6 +80,11 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 
 ---
 
+## GET USERID TUTORIAL
+
+**Watch this Video Tutorial:**
+
+
 ## LICENSE
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
