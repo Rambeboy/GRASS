@@ -14,7 +14,7 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 
 ## BOT FEATURE
 
-- **Single Account With Multiple Worker Based On proy**
+- **Single Account With Multiple Worker Based On Proxy**
 - **Proxy Support (HTTP / SOCKS5)**
 - **Auto Run GRASS Node**
 - **Server Proxy**
