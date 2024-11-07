@@ -1,4 +1,4 @@
-# GRASS EXTENSIONS NODE BOT
+## GRASS EXTENSIONS NODE BOT
 
 ![GRASS](assets/img1.jpg)
 
@@ -80,10 +80,12 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 
 ---
 
-## GET USERID TUTORIAL
+## TUTORIAL VIDEO
 
-**Watch this Video Tutorial:**
+- **HOW TO GET USERID:**
+https://github.com/user-attachments/assets/70421c5d-a0c5-4ff4-8fc0-1ea12a117366
 
+---
 
 ## LICENSE
 
