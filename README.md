@@ -1,6 +1,6 @@
-# GRASS EXTENSIONS BOT
+# GRASS EXTENSIONS NODE BOT
 
-
+![GRASS](assets/img1.jpg)
 
 This repository contains the code for `GRASS`, a bot designed to establish WebSocket connections through various HTTP and SOCKS proxies, specifically aimed at farming for Grass Airdrop Season 2.
 
