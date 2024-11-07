@@ -80,9 +80,7 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 
 ---
 
-## TUTORIAL VIDEO
-
-- **HOW TO GET USERID**
+## HOW TO GET USER ID
 
 https://github.com/user-attachments/assets/70421c5d-a0c5-4ff4-8fc0-1ea12a117366
 
