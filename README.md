@@ -53,7 +53,7 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
 
    ```text
    123123213
-   12313123
+   123123123
    ```
 
 3. To specify proxies, create a file named `proxy.txt` in the project directory and add your desired proxy URLs, following the same new-line format, like this:
@@ -63,7 +63,7 @@ This repository contains the code for `GRASS`, a bot designed to establish WebSo
    socks5://username:password@hostname:port
    ```
 
-4. To run the `getgrass-bot`, execute the following command in your terminal:
+4. To run the `GRASS`, execute the following command in your terminal:
 
    ```bash
    npm start
