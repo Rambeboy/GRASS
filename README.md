@@ -91,9 +91,3 @@ https://github.com/user-attachments/assets/70421c5d-a0c5-4ff4-8fc0-1ea12a117366
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## CONTRIBUTION
-
-If you find this project useful, please consider giving it a star on GitHub! Your support motivates further development and enhancements.
-
----
