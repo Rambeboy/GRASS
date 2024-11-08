@@ -1,4 +1,4 @@
-### GRASS EXTENSIONS NODE BOT
+### GRASS EXTENSIONS NODE
 
 ![GRASS](assets/img1.jpg)
 
